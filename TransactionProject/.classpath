@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="D:/Temp/libs_aop/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Temp/libs_aop/aspectjrt.jar"/>
+	<classpathentry kind="lib" path="D:/Temp/libs_aop/aspectjrt-1.6.11.jar"/>
+	<classpathentry kind="lib" path="D:/Temp/libs_aop/aspectjweaver-1.6.2.jar"/>
+	<classpathentry kind="lib" path="D:/Temp/libs_aop/cglib-nodep-2.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/Temp/libs_aop/commons-pool-1.5.6.jar"/>
+	<classpathentry kind="lib" path="D:/Temp/libs_aop/derby.jar"/>
+	<classpathentry kind="lib" path="D:/Temp/libs_aop/org.apache.commons.logging_1.1.1.v201005080502.jar"/>
+	<classpathentry kind="lib" path="D:/Temp/libs_aop/org.springframework.asm_3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Temp/libs_aop/org.springframework.beans_3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Temp/libs_aop/org.springframework.context_3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Temp/libs_aop/org.springframework.core_3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Temp/libs_aop/org.springframework.expression_3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Temp/libs_aop/spring-aop-2.5.6.jar"/>
+	<classpathentry kind="lib" path="D:/Temp/libs_aop/spring-aop-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Temp/libs_aop/spring-aspects-2.5.6.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="D:/Temp/libs_aop/spring-tx-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Temp/libs_aop/spring-jdbc-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Temp/libs_aop/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="D:/Temp/libs_aop/commons-dbcp-1.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
